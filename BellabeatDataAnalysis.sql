@@ -1,4 +1,4 @@
-/* Data analysis of Bellabeats data using MySQL Workbench */
+/* Data analysis of Fitbit data for Bellabeat case study using MySQL Workbench */
 
 -- Cursory check to make sure everything was uploaded correctly 
 
